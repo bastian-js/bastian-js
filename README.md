@@ -6,4 +6,4 @@
 
 </p>
 
-[![Bastians's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastian-js)](https://github.com/anuraghazra/github-readme-stats)
+[![Bastians's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastian-js&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
